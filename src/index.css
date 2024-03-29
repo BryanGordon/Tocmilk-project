@@ -1,0 +1,51 @@
+html {
+  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Mulish', sans-serif;
+  font-family: 'Rethink Sans', sans-serif;
+}
+
+body {
+  background-color: #FFFCE5;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 1rem 6rem 1rem 6rem ;
+}
+
+nav {
+  padding: 0 4rem 0 4rem;
+}
+
+h1 {
+  color: #664245;
+}
+
+h2 {
+  color: #664245;
+  padding: 1rem 0 1rem 0;
+}
+
+h3 {
+  color: #664245;
+}
+
+p {
+  color: #854502;
+}
+img {
+  border-radius: 0.5rem;
+}
+
+@media screen and (max-width: 300px), (max-width: 400px), (max-width: 500px), (max-width: 600px) {
+  
+  section{
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  nav {
+    padding: 0 2rem 0 2rem;
+  }
+}

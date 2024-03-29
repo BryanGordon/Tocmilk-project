@@ -1,0 +1,26 @@
+[
+{
+  "product_name": "Producto 1",
+  "product_info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse aspernatur quaerat omnis perferendis voluptate magni.",
+  "product_image": "leche-prod.jpg",
+  "image_alt": "productos-leche"
+},
+{
+  "product_name": "Producto 2",
+  "product_info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse aspernatur quaerat omnis perferendis voluptate magni.",
+  "product_image": "pan-prod.jpg",
+  "image_alt": "productos-pan"
+},
+{
+  "product_name": "Producto 3",
+  "product_info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse aspernatur quaerat omnis perferendis voluptate magni.",
+  "product_image": "mermelada-prod.jpg",
+  "image_alt": "productos-mermelada"
+},
+{
+  "product_name":"Producto 4",
+  "product_info":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse aspernatur quaerat omnis perferendis voluptate magni.",
+  "product_image": "horta-prod.jpg",
+  "image_alt": "productos-vegetales"
+}
+]

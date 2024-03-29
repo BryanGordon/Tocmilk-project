@@ -1,0 +1,38 @@
+.items-beneficios {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));
+}
+
+.image-beneficios-container {
+  padding-left: 5rem;
+}
+
+.image-beneficios {
+  width: 380px;
+  height: 220px;
+}
+
+@media screen and (max-width: 800px), (max-width: 900px) {
+  .items-beneficios {
+    display: block;
+  }
+
+  .image-beneficios {
+    max-width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 300px), (max-width: 400px), (max-width: 500px), (max-width: 600px) {
+  .items-beneficios {
+    display: block;
+  }
+
+  .image-beneficios-container {
+    padding-left: 0;
+  }
+
+  .image-beneficios {
+    max-width: 100%;
+  }
+}

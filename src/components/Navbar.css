@@ -1,0 +1,22 @@
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-items {
+  padding: 0;
+}
+
+.items {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color:bisque;
+}
+/*
+@media screen and (max-width: 300px), (max-width: 400px) {
+  */
+  

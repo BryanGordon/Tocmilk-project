@@ -1,0 +1,26 @@
+[
+{
+  "benefit_name": "Beneficio 1",
+  "info_benefit": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti tempora earum molestias consequatur fugiat? Sapiente pariatur minus suscipit quaerat doloribus?",
+  "image_benefit": "beneficio1.jpg",
+  "image_alt": "beneficio1-image"
+},
+{
+  "benefit_name": "Beneficio 2",
+  "info_benefit": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti tempora earum molestias consequatur fugiat? Sapiente pariatur minus suscipit quaerat doloribus?",
+  "image_benefit": "beneficio2.jpg",
+  "image_alt": "beneficio2-image"
+},
+{
+  "benefit_name": "Beneficio 3",
+  "info_benefit": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti tempora earum molestias consequatur fugiat? Sapiente pariatur minus suscipit quaerat doloribus?",
+  "image_benefit": "beneficio3.jpg",
+  "image_alt": "beneficio3-image"
+},
+{
+  "benefit_name":"Beneficio 4",
+  "info_benefit":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti tempora earum molestias consequatur fugiat? Sapiente pariatur minus suscipit quaerat doloribus?",
+  "image_benefit": "beneficio4.jpg",
+  "image_alt": "beneficio4-image"
+}
+]

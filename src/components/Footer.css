@@ -1,0 +1,36 @@
+footer {
+  padding: 0;
+  margin: 0;
+}
+
+.container-footer {
+  background-color: #038C4C;
+  max-width: 100%;
+  padding: 2rem;
+}
+
+.footer-info {
+  display: inline;
+}
+
+.footer-info label {
+  display: block;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  color: bisque;
+}
+
+.footer-info span {
+  color: bisque;
+}
+
+.footer-icons {
+  float: right;
+}
+
+.footer-icons a{
+  color: bisque;
+}
+
+.footer-icons i {
+  margin: 0 2rem 0 0;
+}
